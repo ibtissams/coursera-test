@@ -30,6 +30,9 @@ body {
   line-height: .75;
   text-decoration: none;
 }
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  }
 #nav-list {
     background-color: #CD5C5C
 }
